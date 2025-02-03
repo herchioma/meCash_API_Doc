@@ -21,7 +21,7 @@ The API documentation is provided in Markdown format within this repository. To 
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone [<repository_url>](https://github.com/herchioma/meCash_API_Doc.git)
+git clone (https://github.com/herchioma/meCash_API_Doc.git)
 ```
 
 Open the `README.md` file or any other Markdown files in the repository using a Markdown viewer or text editor.
